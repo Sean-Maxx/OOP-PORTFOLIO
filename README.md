@@ -1,8 +1,7 @@
 <img src="dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There;I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+✨" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+✨" alt="Animated Typing SVG" />
 </p>
 
 ---
@@ -16,7 +15,6 @@ I'm **a college student currently** taking a course in **Computer Science**.
 I'm always curious about how technology works and how websites or apps are created.  
 I enjoy learning **web development**, studying different **programming languages**, and discovering new things that help me understand coding better.  
 I find it interesting to explore how simple ideas can turn into useful applications through programming.  
-
 
 ---
 
@@ -60,7 +58,6 @@ To become successful in the future ✨
   </span>
 </h4>
 
-
 ---
 
 ## 💬 Quote
@@ -82,17 +79,15 @@ To become successful in the future ✨
 
 ---
 
-
 ## 📫 Contact Me
 <p align="center">
-  <a href="mailto:ocaresjohanna@gmail.com"><img src="https://img.shields.io/badge/Email-ocaresjohanna@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/JohannaOcares" target="_blank"><img src="https://img.shields.io/badge/Facebook-JohannaOcares-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:eu.Seanraiver28@gmail.com"><img src="https://img.shields.io/badge/Email-eu.Seanraiver28@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/share/1K175Y3wro/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-Sean+Raiver+Eusebio-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/jo.hhx" target="_blank"><img src="https://img.shields.io/badge/Instagram-jo.hhx-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/joa-an" target="_blank"><img src="https://img.shields.io/badge/GitHub-joa--an-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github.com/joa-an/joa-an/blob/32a6521e78ca84876b8f001cf1a928aa7c2e8984/thank-you-sticker-thanks-sticker.gif" width="500" />
