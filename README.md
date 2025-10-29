@@ -1,7 +1,7 @@
 <img src="dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F2C6A0&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+🎹🎶" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F2C6A0&center=true&vCenter=true&width=700&lines=;Hello+There;I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+🎹🎶" alt="Animated Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ I find it interesting to explore how simple ideas can turn into useful applicati
 ---
 
 ### 🎯 **Goal:**  
-To become successful in the future ✨🎹  
+To finish college and live life ✨🎹  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1a4,50:ffad8f,100:ffacb7&height=120&section=footer"/>
@@ -61,7 +61,7 @@ To become successful in the future ✨🎹
 ---
 
 ## 💬 Quote  
-*"You can do it!"* 💖🎶  
+*"Better to be Late than Never!"* 💖🎶  
 
 <p align= "left">
   <img src="https://github.com/joa-an/joa-an/blob/928f6feb51c6865963edbf873b7b83a437825e0b/dare-aggie-dare-aggie-bunny%20(1).gif" width="200" />
