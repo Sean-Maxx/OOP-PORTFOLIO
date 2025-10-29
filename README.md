@@ -83,12 +83,7 @@ To become successful in the future ✨
 <p align="center">
   <a href="mailto:eu.Seanraiver28@gmail.com"><img src="https://img.shields.io/badge/Email-eu.Seanraiver28@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/share/1K175Y3wro/?mibextid=wwXIfr" target="_blank"><img src="https://img.shields.io/badge/Facebook-Sean+Raiver+Eusebio-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/jo.hhx" target="_blank"><img src="https://img.shields.io/badge/Instagram-jo.hhx-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/joa-an" target="_blank"><img src="https://img.shields.io/badge/GitHub-joa--an-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
+  <a 
 ---
 
-<p align="center">
-  <img src="https://github.com/joa-an/joa-an/blob/32a6521e78ca84876b8f001cf1a928aa7c2e8984/thank-you-sticker-thanks-sticker.gif" width="500" />
-</p>
+
