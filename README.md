@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=안녕하세요!!;Hello+There,+I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+✨" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=B5838D&center=true&vCenter=true&width=700&lines=;Hello+There;I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+" alt="Animated Typing SVG" />
 </p>
 
 ---
@@ -85,8 +85,8 @@ To become successful in the future ✨
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="mailto:ocaresjohanna@gmail.com"><img src="https://img.shields.io/badge/Email-ocaresjohanna@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/JohannaOcares" target="_blank"><img src="https://img.shields.io/badge/Facebook-JohannaOcares-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:eu.seanraiver28@gmail.com"><img src="https://img.shields.io/badge/Email-eu.seanraiver28@gmail.com-cyan?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/Sean Raiver Eusebio" target="_blank"><img src="https://img.shields.io/badge/Facebook-SeanRaiverEusebio-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/jo.hhx" target="_blank"><img src="https://img.shields.io/badge/Instagram-jo.hhx-pink?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/joa-an" target="_blank"><img src="https://img.shields.io/badge/GitHub-joa--an-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
