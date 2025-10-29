@@ -1,7 +1,7 @@
 <img src="dare-aggie-dare-aggie-bunny.gif" alt="Cute GIF" width="500"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F2C6A0&center=true&vCenter=true&width=700&lines=;Hello+There;I'm+Sean+Raiver+Eusebio;Welcome+to+my+GitHub+account+🎹🎶" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=F2C6A0&center=true&vCenter=true&width=700&lines=;Hello+There;I'm+Sean+Raiver+Eusebio; welcome+to+my+GitHub+account+🎹🎶" alt="Animated Typing SVG" />
 </p>
 
 ---
